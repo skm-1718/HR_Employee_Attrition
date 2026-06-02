@@ -1,6 +1,6 @@
 # HR_Employee_Attrition
 
-# 📌 Recommended Professional Project Structure
+# 📌 Project Structure
 
 ## Sections in Notebook
 
@@ -46,6 +46,9 @@
 .Scikit-learn
 
 .EDA
-Machine Learning
-Data Visualization
-Predictive Analytics
+
+.Machine Learning
+
+.Data Visualization
+
+.Predictive Analytics
