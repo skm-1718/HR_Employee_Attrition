@@ -19,7 +19,7 @@
 
 7-Feature Engineering
 
-8-Machine Learning
+8-Model Building
 
 9-Model Evaluation
 
